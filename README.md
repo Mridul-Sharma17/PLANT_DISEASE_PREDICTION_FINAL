@@ -6,12 +6,6 @@
 ## Overview
 This project uses CNN-based deep learning models to predict plant diseases from images. Early detection of plant diseases is crucial for maintaining crop health and yield.
 
-## Features
-- Image-based disease detection
-- Multiple CNN architectures
-- High accuracy prediction
-- User-friendly interface
-
 ## Installation
 ```bash
 git clone https://github.com/yourusername/plant-disease-prediction.git
